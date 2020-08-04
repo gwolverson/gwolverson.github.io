@@ -39,13 +39,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    A well rounded, complete software engineer with over 8 years’ experience working for a global software consultancy, 
-    on a variety of large scale software projects. Highly capable, 
-    with solid experience in leading diverse teams on complex solutions. 
-    Highly skilled in a variety of technologies and frameworks, including both server and client-side development. 
-    Holds a strong belief for high quality software, built following standardised patterns and principles 
-    and core software development processes such as TDD & BDD. Excellent team player, 
-    with a strong ability to lead and get the best out of agile scrum teams.
+      A well rounded, complete software engineer with over 8 years’ experience working for a global software consultancy, 
+      on a variety of large scale software projects. Highly capable, 
+      with solid experience in leading diverse teams on complex solutions. 
+      Highly skilled in a variety of technologies and frameworks, including both server and client-side development. 
+      Holds a strong belief for high quality software, built following standardised patterns and principles 
+      and core software development processes such as TDD & BDD. Excellent team player, 
+      with a strong ability to lead and get the best out of agile scrum teams.
 education:
     - degree: BSc Honours Digital & Technology Solutions – Software Engineering
       university: Aston University
