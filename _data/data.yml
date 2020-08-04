@@ -40,11 +40,13 @@ career-profile:
       Holds a strong belief for high quality software, built following standardised patterns and principles 
       and core software development processes such as TDD & BDD. Excellent team player, 
       with a strong ability to lead and get the best out of agile scrum teams.
+
 education:
     - degree: BSc Honours Digital & Technology Solutions – Software Engineering
       university: Aston University
       time: 2014-2017
       details: 
+
 employment-history:
     - role: Software Engineer Lead
       time: 2011 - Present
