@@ -4,7 +4,7 @@
 
 sidebar:
     about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: false # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Greg Wolverson
@@ -68,7 +68,7 @@ education:
       time: 2014-2017
       details: 
           
-experience:
+experiences:
     - role: Software Engineer Lead
       time: 2011 - Present
       company: Capgemini, UK
@@ -123,18 +123,16 @@ skills:
 
 skills:
     title: Core Skills
-
-    toolset:
-      - name: Languages - Java 11+, Kotlin, NodeJS, JavaScript
-      - name: Frameworks - Spring Boot, Micronaut
-      - name: Front End - React, HTML, CSS
-      - name: Protocols - REST, GraphQL
-      - name: Build Tools - Maven, Gradle
-      - name: CI/CD - Jenkins, Bamboo, Gitlab Pipelines, Github Actions
-      - name: Monitoring Tools - Grafana, Prometheus, ELK
-      - name: Version Control - Git, GitHub, Bitbucket, Gitlab      
-      - name: Containers - Kubernetes, Docker
-      - name: Cloud Platforms - AWS, Google Cloud
+      - Languages - Java 11+, Kotlin, NodeJS, JavaScript
+      - Frameworks - Spring Boot, Micronaut
+      - Front End - React, HTML, CSS
+      - Protocols - REST, GraphQL
+      - Build Tools - Maven, Gradle
+      - CI/CD - Jenkins, Bamboo, Gitlab Pipelines, Github Actions
+      - Monitoring Tools - Grafana, Prometheus, ELK
+      - Version Control - Git, GitHub, Bitbucket, Gitlab      
+      - Containers - Kubernetes, Docker
+      - Cloud Platforms - AWS, Google Cloud
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
