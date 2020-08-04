@@ -1,123 +1,199 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output.
+# Be aware that even a small syntax error here can lead to failures in output. 
 #
+
 sidebar:
-    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Greg Wolverson
-    tagline: Software Engineer Lead
-    avatar: headshot.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: greg.wolverson@hotmail.com        
-    linkedin: greg-wolverson-878768b9
-    github: gwolverson
-    stack-overflow: 7984771/gwolverson # Number/Username, e.g. 123456/alandoe
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
 
     languages:
       - idiom: English
         level: Native
 
+      - idiom: French
+        level: Professional
+
+      - idiom: Spanish
+        level: Professional
+        
     interests:
-      - item: Cycling & Running
-        link: https://www.strava.com/athletes/18245570
+      - item: Climbing
+        link:
 
-      - item: Mountain Hiking
-        link: 
+      - item: Snowboarding
+        link:
 
-      - item: Technology
-        link: 
+      - item: Cooking
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      A well rounded, complete software engineer with over 8 years’ experience working for a global software consultancy, 
-      on a variety of large scale software projects. Highly capable, 
-      with solid experience in leading diverse teams on complex solutions. 
-      Highly skilled in a variety of technologies and frameworks, including both server and client-side development. 
-      Holds a strong belief for high quality software, built following standardised patterns and principles 
-      and core software development processes such as TDD & BDD. Excellent team player, 
-      with a strong ability to lead and get the best out of agile scrum teams.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+
+      Second paragraph if required.
 
 education:
-    - degree: BSc Honours Digital & Technology Solutions – Software Engineering
-      university: Aston University
-      time: 2014-2017
-      details: 
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 
-employment-history:
-    - role: Software Engineer Lead
-      time: 2011 - Present
-      company: Capgemini, UK
-      details:
-        - Technical Lead across multiple transformation teams moving from legacy kit to cloud architecture solutions
-        - Led multiple scrum teams on large scale enterprise solutions
-        - SME for frontend development, specifically ReactJS
-        - Multiple successful deliveries on a range of projects, from large scale legacy EE applications, through to micro-services
-        - Has led a series of ‘Learn React’ sessions to help build a front-end capability
-        - Helps lead the degree apprentice capability 
-        - Blog contributor and knowledge sharing
-        - Reviewer/mentor to several engineers         
+          - Bullet point
+          - Bullet point 
 
-blog-posts:
-    title: Blog Posts
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point 
+
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+
+          - Bullet point
+          - Bullet point 
+
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
     intro: |
-      Below are some of blog posts I've written across varying topics.
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+
     papers:
-      - title: Out of the Comfort Zone and into the Classroom
-        link: "https://medium.com/@greg.wolverson/out-of-the-comfort-zone-and-into-the-classroom-6da9c5801994"
-        authors: Greg Wolverson        
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: Embracing the Legacy
-        link: "https://medium.com/@greg.wolverson/embracing-the-legacy-26857621a68f"
-        authors: Greg Wolverson
-        
-      - title: Security of the Future
-        link: "https://medium.com/capgemini-engineering/security-of-the-future-9ed27a42bd5a"
-        authors: Greg Wolverson 
-      
-      - title: React-ing to change
-        link: "https://medium.com/capgemini-engineering/react-ing-to-change-5bbd673e0705"
-        authors: Greg Wolverson 
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-core-experience:
-    title: Core Experience
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
 
     toolset:
-      - name: 8+ years’ experience in JVM/Open Source development and associated technologies
-        
-      - name: Wealth of experience of a range of architectural styles, from JavaEE to RESTful Micro-services
-        
-      - name: Strong front end skills with JavaScript and ReactJS in particular 
-      
-      - name: Highly experienced in building and using CI/CD pipelines
-    
-      - name: Strong advocate of clean code
-  
-      - name: Strong technical leadership in Agile scrum teams
+      - name: Python & Django
+        level: 98%
 
-      - name: Experienced with container orchestration and administration
+      - name: Javascript & jQuery
+        level: 98%
 
-core-skills:
-    title: Core Skills
+      - name: Angular
+        level: 98%
 
-    skillset:
-      - name: Languages - Java 11+, Kotlin, NodeJS, JavaScript
-      - name: Frameworks - Spring Boot, Micronaut
-      - name: Front End - React, HTML, CSS
-      - name: Protocols - REST, GraphQL
-      - name: Build Tools - Maven, Gradle
-      - name: CI/CD - Jenkins, Bamboo, Gitlab Pipelines, Github Actions
-      - name: Monitoring Tools - Grafana, Prometheus, ELK
-      - name: Version Control - Git, GitHub, Bitbucket, Gitlab      
-      - name: Containers - Kubernetes, Docker
-      - name: Cloud Platforms - AWS, Google Cloud
+      - name: HTML5 & CSS
+        level: 95%
 
-certifications:
-  title: Professional Certifications
+      - name: Ruby on Rails
+        level: 85%
 
-  certifications:
-    - name: Java SE 7 Professional
+      - name: Sketch & Photoshop
+        level: 60%
 
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
