@@ -55,7 +55,7 @@ employment-history:
     - role: Software Engineer Lead
       time: 2011 - Present
       company: Capgemini, UK
-      details: |
+      details:
         - Technical Lead across multiple transformation teams moving from legacy kit to cloud architecture solutions
       	- Led multiple scrum teams on large scale enterprise solutions
       	- SME for frontend development, specifically ReactJS
