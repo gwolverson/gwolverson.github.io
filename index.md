@@ -59,4 +59,5 @@
   - [React-ing to change](https://medium.com/capgemini-engineering/react-ing-to-change-5bbd673e0705)
 
 ## Professional Certifications
+  - CKA: Certified Kubernetes Administrator
   - Java SE 7 Professional
