@@ -2,13 +2,12 @@
 ## Profile    
   A well rounded, complete software engineer with over 8 years’ experience working for a global software consultancy, on a variety of large scale software projects. Highly capable, with solid experience in leading diverse teams on complex solutions. 
 
-  Highly skilled in a variety of technologies and frameworks, including both server and client-side development. 
+Highly skilled in a variety of technologies and frameworks, including both server and client-side development. 
 
-  Holds a strong belief for high quality software, built following standardised patterns and principles and core software development processes such as TDD & BDD. Excellent team player, with a strong ability to lead and get the best out of agile scrum teams.
+Holds a strong belief for high quality software, built following standardised patterns and principles and core software development processes such as TDD & BDD. Excellent team player, with a strong ability to lead and get the best out of agile scrum teams.
   
 ## Professional Experience
-  Software Engineer Lead
-  Capgemini, UK
+  Software Engineer Lead - Capgemini, UK<br/>
   *2011 - Present*
   
   - Technical Lead across multiple transformation teams moving from legacy kit to cloud architecture solutions
@@ -21,8 +20,8 @@
   - Reviewer/mentor to several engineers         
 
 ## Education
-  BSc Honours Digital & Technology Solutions – Software Engineering
-  *Aston University - 2014-2017*
+  BSc Digital & Technology Solutions – Software Engineering<br/>
+  *Aston University - 2014-2017 - 1st Class Honours*
 
 ## Core Experience 
 
@@ -43,7 +42,7 @@
   - CI/CD - Jenkins, Bamboo, Gitlab Pipelines, Github Actions
   - Monitoring Tools - Grafana, Prometheus, ELK
   - Version Control - Git, GitHub, Bitbucket, Gitlab      
-  - Containers - Kubernetes, Docker
+  - Containerisation - Kubernetes, Docker
   - Cloud Platforms - AWS, Google Cloud
 
 ## Blog Posts
