@@ -7,7 +7,7 @@ Highly skilled in a variety of technologies and frameworks, including both serve
 Holds a strong belief for high quality software, built following standardised patterns and principles and core software development processes such as TDD & BDD. Excellent team player, with a strong ability to lead and get the best out of agile scrum teams.
   
 ## Professional Experience
-  Software Engineer Lead - Capgemini, UK<br/>
+  Senior Software Engineer - Capgemini, UK<br/>
   *2011 - Present*
   
   - Technical Lead across multiple transformation teams moving from legacy kit to cloud architecture solutions
