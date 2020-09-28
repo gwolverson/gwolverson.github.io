@@ -48,6 +48,8 @@ Holds a strong belief for high quality software, built following standardised pa
 ## Blog Posts
     
   Below are some of blog posts I've written across varying topics.
+  
+  - [The Engineering Collective](https://medium.com/@greg.wolverson/the-engineering-collective-455410f8425e)
 
   - [Out of the Comfort Zone and into the Classroom](https://medium.com/@greg.wolverson/out-of-the-comfort-zone-and-into-the-classroom-6da9c5801994)
  
