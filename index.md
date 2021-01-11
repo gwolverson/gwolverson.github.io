@@ -48,12 +48,14 @@ Holds a strong belief for high quality software, built following standardised pa
 ## Blog Posts
     
   Below are some of blog posts I've written across varying topics.
-  
-  - [The Engineering Collective](https://medium.com/@greg.wolverson/the-engineering-collective-455410f8425e)
+   
+  - [The Engineering Collective](https://medium.com/@greg-wolverson/the-engineering-collective-455410f8425e)
 
-  - [Out of the Comfort Zone and into the Classroom](https://medium.com/@greg.wolverson/out-of-the-comfort-zone-and-into-the-classroom-6da9c5801994)
+  - [Externalising Spring Boot Configuration with Kubernetes](https://greg-wolverson.medium.com/externalizing-spring-boot-config-with-kubernetes-87b5258897aa)
+
+  - [Out of the Comfort Zone and into the Classroom](https://medium.com/@greg-wolverson/out-of-the-comfort-zone-and-into-the-classroom-6da9c5801994)
  
-  - [Embracing the Legacy](https://medium.com/@greg.wolverson/embracing-the-legacy-26857621a68f)
+  - [Embracing the Legacy](https://medium.com/@greg-wolverson/embracing-the-legacy-26857621a68f)
     
   - [Security of the Future](https://medium.com/capgemini-engineering/security-of-the-future-9ed27a42bd5a)
     
