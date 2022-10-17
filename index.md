@@ -68,5 +68,5 @@ Passionate about learning and strongly believes in building learning frameworks 
 ## Professional Certifications  
   
    [![CKA](./assets/images/cka-certified-kubernetes-administrator.png)](https://www.youracclaim.com/badges/d4d84206-f755-444c-82a0-ddb167f7e7f3/public_url)&nbsp;&nbsp;&nbsp;&nbsp;
-   [![CKAD](./assets/ckad-certified-kubernetes-application-developer.png)](https://www.credly.com/badges/bf05da08-c4b6-4b89-8929-bca44446778d/public_url)
+   [![CKAD](./assets/images/ckad-certified-kubernetes-application-developer.png)](https://www.credly.com/badges/bf05da08-c4b6-4b89-8929-bca44446778d/public_url)
    [![Java SE 7](./assets/images/oracle-certified-associate-java-se-7-programmer.png)](https://www.youracclaim.com/badges/95b4a38a-5922-4654-970d-16d1b618830b/public_url)
